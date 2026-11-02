@@ -23,6 +23,7 @@ const OUT_PATH = join(REPO_ROOT, 'index.json');
 const PROJECTED_FIELDS = [
   'slug',
   'name',
+  'aliases',
   'tagline',
   'mood',
   'occasion',

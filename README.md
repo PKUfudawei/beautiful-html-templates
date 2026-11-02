@@ -14,7 +14,7 @@ Clone https://github.com/zarazhangrui/beautiful-html-templates and follow the in
 
 ## Gallery
 
-All 34 templates. Three slides per template (cover · mid-deck · later) to give a sense of how each visual system handles different layouts. Click any template name to open its folder on GitHub — the HTML, metadata, and any sibling assets are all there.
+All 35 templates. Three slides per template (cover · mid-deck · later) to give a sense of how each visual system handles different layouts. Click any template name to open its folder on GitHub — the HTML, metadata, and any sibling assets are all there.
 
 ### [Soft Editorial](./templates/soft-editorial/)
 
@@ -185,6 +185,16 @@ All 34 templates. Three slides per template (cover · mid-deck · later) to give
 </p>
 
 > Cream paper background with electric cobalt blue accents; clean modern professional.
+
+### [Teal Professional (PKUfudawei)](./templates/teal-professional/)
+
+<p>
+  <img src="./screenshots/teal-professional-1.png" width="32.5%" alt="Teal Professional (PKUfudawei) — slide 1" />
+  <img src="./screenshots/teal-professional-6.png" width="32.5%" alt="Teal Professional (PKUfudawei) — slide 6" />
+  <img src="./screenshots/teal-professional-8.png" width="32.5%" alt="Teal Professional (PKUfudawei) — slide 8" />
+</p>
+
+> A teal color variant of Blue Professional, with a warm cream background and deep teal (`#0F766E`) accents. Alias: `PKUfudawei`.
 
 ### [Bold Poster](./templates/bold-poster/)
 
